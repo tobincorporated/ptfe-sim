@@ -1,0 +1,2 @@
+# Proton Diffusion through a Sulfonated PTFE Membrane
+My senior project for my degree in Engineering Physics was a simulation, coded from the ground up in MATLAB. This simulation includes en masse diffusion, the Grotthus mechanism, and sulfonate diffusion of dissolved protons in the form of hydronium ions.  Several complex physical processes were coded into separate code files, and the results were recorded and analyzed.  This repo contains some of the code files and basic results.
